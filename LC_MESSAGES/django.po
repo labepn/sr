@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: GeoNode\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-08 09:02+0300\n"
-"PO-Revision-Date: 2022-11-18 13:52+0100\n"
+"PO-Revision-Date: 2022-11-18 16:35+0100\n"
 "Last-Translator: >\n"
 "Language-Team: Mirko MapSoft\n"
 "Language: sr\n"
@@ -365,7 +365,7 @@ msgid "Should this resource be advertised in home page?"
 msgstr "Да ли овај ресурс треба да се оглашава на почетној страници?"
 
 msgid "Is Published"
-msgstr "Је објављено"
+msgstr "Објављено"
 
 msgid "Should this resource be published and searchable?"
 msgstr "Да ли овај извор треба да буде објављен и претражив?"
@@ -1930,7 +1930,7 @@ msgid "specifies the order in which attribute should be displayed in identify re
 msgstr "одређује редослед којим атрибут треба да буде приказан у резултатима идентификације"
 
 msgid "Label"
-msgstr "Лабел"
+msgstr "Ознака"
 
 msgid "Image"
 msgstr "Слика"
@@ -2321,7 +2321,7 @@ msgid "Display Order"
 msgstr "Прикажи редослед"
 
 msgid "Display Type"
-msgstr "Тип екрана"
+msgstr "Тип приказа"
 
 msgid "Visible"
 msgstr "Видљиво"
@@ -4017,10 +4017,10 @@ msgid "Search"
 msgstr "Претрага"
 
 msgid "Register"
-msgstr "Регистар"
+msgstr "Регистрација"
 
 msgid "Sign in"
-msgstr "Пријавите се"
+msgstr "Пријава"
 
 msgid "You are using an outdated browser that is not supported by GeoNode."
 msgstr "Користите застарели претраживач који ГеоНоде не подржава."
