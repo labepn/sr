@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: GeoNode\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-08 09:02+0300\n"
-"PO-Revision-Date: 2022-11-30 11:36+0100\n"
+"PO-Revision-Date: 2022-11-30 12:54+0100\n"
 "Last-Translator: >\n"
 "Language-Team: Mirko MapSoft\n"
 "Language: sr\n"
@@ -54,6 +54,18 @@ msgstr "негеографски подаци"
 
 msgid "property type"
 msgstr "тип имовине"
+
+msgid "Vertical"
+msgstr "Вертикално"
+
+msgid "Horizontal"
+msgstr "Хоризонтално"
+
+msgid "Serbia"
+msgstr "Србија"
+
+msgid "Size"
+msgstr "Величина"
 
 msgid "field session"
 msgstr "сесија поља"
@@ -128,7 +140,7 @@ msgid "List of keywords from Thesaurus"
 msgstr "Листа кључних речи из Тезауруса"
 
 msgid "Abstract"
-msgstr "Сажетак"
+msgstr "Абстракт"
 
 msgid "Purpose"
 msgstr "Сврха"
@@ -1562,6 +1574,12 @@ msgstr "Уклони групу"
 
 msgid "Create Group"
 msgstr "Креирајте групу"
+
+msgid "Create group"
+msgstr "Креирајте групу"
+
+msgid "Select..."
+msgstr "Одабрати..."
 
 msgid "Last Modified"
 msgstr "Последња измена"
@@ -4057,6 +4075,9 @@ msgid "Create Map"
 msgstr "Направи карту"
 
 msgid "Add User"
+msgstr "Додај корисника"
+
+msgid "Add user"
 msgstr "Додај корисника"
 
 msgid "Powered by"
