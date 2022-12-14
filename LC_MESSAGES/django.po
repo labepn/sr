@@ -5050,21 +5050,20 @@ msgid "Leave"
 msgstr "Напустити"
 
 msgid "Dear Sir/Madam,"
-msgstr "Драги господине/госпођо,"
+msgstr "Поштовани,"
+
+msgid "is inviting you to join WebFIS."
+msgstr "вас позива да се придружите WebFIS."
 
 #, python-format
-msgid "is inviting you to join (%(site_name)s)."
-msgstr "вас позива да се придружите (%(site_name)s)."
-
-#, python-format
-msgid "To do so, please register at <a href=\"%(invite_url)s\">%(site_name)s Registration</a>."
-msgstr "Да бисте то урадили, региструјте се на <a href=\"%(invite_url)s\">%(site_name)s регистрација</a>."
+msgid "To do so, please register at <a href=\"%(invite_url)s\">WebFIS Registration</a>."
+msgstr "Да бисте то урадили, региструјте се на <a href=\"%(invite_url)s\">WebFIS регистрацији</a>."
 
 msgid "Once you receive the confirmation that your account is activated, you can notify"
-msgstr "Када добијете потврду да је ваш налог активиран, можете га обавестити"
+msgstr "Када добијете потврду да је ваш налог активиран, можете обавестити"
 
 msgid "that you wish to join her/his group(s) through"
-msgstr "преко које желите да се придружите њеним/његовим групама"
+msgstr "уколико желите да се придружите њеним/његовим групама"
 
 msgid "this link"
 msgstr "овај линк"
@@ -5076,8 +5075,8 @@ msgstr "<strong>%(inviter_name)s</strong> је члан следеће груп�
 msgid "We look forward to seeing you on the platform,"
 msgstr "Радујемо се што ћемо вас видети на платформи,"
 
-msgid "The GeoNode team."
-msgstr "GeoNode тим."
+msgid "The WebFIS team."
+msgstr "WebFIS тим."
 
 msgid "is inviting you to join"
 msgstr "вас позива да се придружите"
@@ -5173,22 +5172,27 @@ msgid "Send request"
 msgstr "Послати захтев"
 
 msgid "Your account has been approved and is now active."
-msgstr "Ваш налог је одобрен и сада је активан."
+msgstr "Ваш налог је прихваћен и сада је активан."
 
 msgid "You can use the login form at"
-msgstr "Можете користити образац за пријаву на"
+msgstr "Можете користити образац за пријављивање на"
 
-msgid "Welcome at"
-msgstr "Добро дошли у"
+msgid "Welcome at WebFIS"
+msgstr "Добро дошли у WebFIS"
 
 msgid "Your account is now active"
 msgstr "Ваш налог је сада активан"
 
 msgid "has requested access to the site."
-msgstr "затражио приступ сајту."
+msgstr "je затражио приступ сајту."
+
+#, fuzzy
+#| msgid "has requested access to the site."
+msgid "has created an account and has access to the site."
+msgstr "је направио налог и има приступ сајту"
 
 msgid "You can enable access by setting the user as active on the admin section"
-msgstr "Можете омогућити приступ тако што ћете поставити корисника као активног у одељку администратора"
+msgstr "Можете омогућити приступ тако што ћете поставити корисника као активног у администраторском делу"
 
 msgid "A user has requested access to the site"
 msgstr "Корисник је затражио приступ сајту"
@@ -5197,10 +5201,10 @@ msgid "The following document was approved"
 msgstr "Следећи документ је одобрен"
 
 msgid "owned by"
-msgstr "власништво"
+msgstr "y власништвy"
 
 msgid "You can visit the document's detail page here"
-msgstr "Овде можете посетити страницу са детаљима документа"
+msgstr "Овде можете посетити страницу са детаљима o документy"
 
 msgid "A document has been approved"
 msgstr "Документ је одобрен"
@@ -5221,7 +5225,7 @@ msgid "uploaded the following document"
 msgstr "је отпремио следећи документ"
 
 msgid "A document has been uploaded"
-msgstr "Документ је учитан"
+msgstr "Документ је додат"
 
 msgid "The following document was deleted"
 msgstr "Следећи документ је обрисан"
@@ -5241,7 +5245,7 @@ msgstr "оцењено"
 msgid "the following document"
 msgstr "следећи документ"
 
-msgid "You can visit the layer's detail page here"
+msgid "You can visit the dataset's detail page here"
 msgstr "Овде можете посетити страницу са детаљима слоја"
 
 msgid "A document has been rated"
@@ -5267,10 +5271,10 @@ msgstr "[%(current_site)s] %(message)s"
 msgid "%(notice)s"
 msgstr "%(notice)s"
 
-msgid "The following layer was approved"
+msgid "The following dataset was approved"
 msgstr "Следећи слој је одобрен"
 
-msgid "A layer has been approved"
+msgid "A dataset has been approved"
 msgstr "Слој је одобрен"
 
 msgid "A comment has been posted for the layer"
@@ -5282,41 +5286,41 @@ msgstr "Постављен је коментар за слој"
 msgid "uploaded the following layer"
 msgstr "отпремљен следећи слој"
 
-msgid "A new layer has been uploaded"
-msgstr "Нови слој је постављен"
+msgid "A new dataset has been uploaded"
+msgstr "Нови слој је додат"
 
-msgid "The following layer was deleted"
+msgid "The following dataset was deleted"
 msgstr "Следећи слој је обрисан"
 
-msgid "A layer has been deleted"
+msgid "A dataset has been deleted"
 msgstr "Слој је обрисан"
 
-msgid "The following layer was published"
+msgid "The following dataset was published"
 msgstr "Следећи слој је објављен"
 
-msgid "A layer has been published"
+msgid "A dataset has been published"
 msgstr "Слој је објављен"
 
-msgid "the following layer"
+msgid "the following dataset"
 msgstr "следећи слој"
 
-msgid "A layer has been rated"
+msgid "A dataset has been rated"
 msgstr "Слој је оцењен"
 
-msgid "The following layer was updated"
+msgid "The following dataset was updated"
 msgstr "Следећи слој је ажуриран"
 
-msgid "A layer has been updated"
+msgid "A dataset has been updated"
 msgstr "Слој је ажуриран"
 
 msgid "The following map was approved"
-msgstr "Следећа мапа је одобрена"
+msgstr "Следећа карта је одобрена"
 
 msgid "You can visit the map's detail page here"
-msgstr "Овде можете посетити страницу са детаљима мапе"
+msgstr "Овде можете посетити страницу са детаљима карте"
 
 msgid "A map has been approved"
-msgstr "Мапа је одобрена"
+msgstr "Карта је одобрена"
 
 msgid "A comment has been posted for the map"
 msgstr "Постављен је коментар за мапу"
@@ -5337,7 +5341,7 @@ msgid "A map has been deleted"
 msgstr "Карта је обрисана"
 
 msgid "The following map was published"
-msgstr "Објављена је следећа карта"
+msgstr "Следећа карта је објављена"
 
 msgid "A map has been published"
 msgstr "Карта је објављена"
@@ -5382,7 +5386,7 @@ msgid "requested you to download this resource"
 msgstr "захтевао је да преузме овај ресурс"
 
 msgid "Please go to resource page and assign the download permissions if you wish"
-msgstr "Идите на страницу ресурса и доделите дозволе за преузимање ако желите"
+msgstr "Молимо идите на страницу ресурса и доделите дозволе за преузимање ако желите"
 
 msgid "A resource's download has been requested"
 msgstr "Затражено је преузимање ресурса"
